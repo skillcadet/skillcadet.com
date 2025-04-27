@@ -1,2 +1,4 @@
 # skillcadet.com
-main site
+### Lifelong Learning
+
+[blog](https://blog.skillcadet.com)
